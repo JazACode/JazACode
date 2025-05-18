@@ -19,7 +19,7 @@
 - Used medical image datasets to classify and localize injuries
 - Achieved 97% object detection accuracy and 60% severity classification
 
-### 💬 [Text Classification with BERT & Keyboard Distance](https://github.com/jazwaurankrah/)
+### 💬 [Text Classification with BERT & Keyboard Distance](https://github.com/nicholasthodge/project-autocorrect)
 - Improved text classification by incorporating Chebyshev distance on QWERTY layout
 - Boosted accuracy from 41.13% to 58.27%
 
