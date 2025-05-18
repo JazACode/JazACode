@@ -7,9 +7,9 @@
 
 ## 🔧 Skills
 - **Languages**: Python, Java, C++, MATLAB
-- **Data & ML Tools**: Pandas, Scikit-learn, BERT, YOLOv5, Transformers, OpenCV
-- **Platforms**: AWS, Docker, MySQL, Git, Linux, WSL
-- **Concepts**: CNNs, NLP, Unsupervised Learning, Clustering, Object Detection
+- **ML Frameworks**: Scikit-learn, YOLOv5, Transformers, OpenCV
+- **Visualization**: Tableau, Matplotlib, Seaborn, Plotly
+- **Tools & Platforms**: Excel, MySQL, SQLite, Linux, Git, Docker, AWS, WSL
 
 ---
 
