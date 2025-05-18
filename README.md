@@ -15,17 +15,18 @@
 
 ## 📂 Featured Projects
 
-### 🧠 [Skin Injury Classification Using CNNs & YOLOv5](https://github.com/JazACode)
+### 🧠 [Skin Injury Classification Using CNNs & YOLOv5](https://github.com/jazwaurankrah/)
 - Used medical image datasets to classify and localize injuries
 - Achieved 97% object detection accuracy and 60% severity classification
 
-### 💬 [Text Classification with BERT & Keyboard Distance](https://github.com/JazACode)
+### 💬 [Text Classification with BERT & Keyboard Distance](https://github.com/jazwaurankrah/)
 - Improved text classification by incorporating Chebyshev distance on QWERTY layout
 - Boosted accuracy from 41.13% to 58.27%
 
-### 📊 [K-Means Clustering Pipeline for CSV Analysis](https://github.com/JazACode)
-- Processed & visualized large unlabeled CSV datasets
-- Achieved 96.5% clustering accuracy in <5 seconds per run
+### 📊 [K-Means Clustering Pipeline for CSV Analysis](https://github.com/jazwaurankrah/)
+- Built a Python-based K-Means clustering pipeline for unsupervised analysis of unlabeled CSV datasets.
+- Applied normalization and optimized clustering on datasets like Iris, achieving 96.5% cluster accuracy.
+- Processed and visualized datasets of 1000+ entries in <5s per run.
 
 ---
 
