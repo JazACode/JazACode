@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jazwaur Ankrah
 
 🎓 Computer Science Graduate (AI Focus) | 📊 Aspiring Data Analyst | 🤖 Machine Learning Enthusiast  
-📍 Lawrenceville, GA | 🔗 [LinkedIn](https://linkedin.com/in/jazwaur-ankrah-72341629a/) | 📬 jazwaurankrah@gmail.com
+📍 Lawrenceville, GA | 🔗 [LinkedIn](https://linkedin.com/in/jazwaurankrah) | 📬 jazwaurankrah@gmail.com
 
 ---
 
