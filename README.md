@@ -32,7 +32,7 @@
 
 ## 🧪 Research & Work Experience
 
-**Undergraduate Research Assistant – KSU Machine Learning Lab**  
+**Undergraduate Research Assistant – [KSU Machine Learning Lab](https://github.com/MachineVisionTeam)**  
 - Developed ML pipelines for Whole Slide Imaging (WSI) in medical diagnostics  
 - Achieved 95% tumor classification accuracy and 80% region detection rate  
 - 3rd place winner at departmental research expo (C-Day)
