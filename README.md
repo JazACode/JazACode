@@ -49,6 +49,6 @@ Actively seeking Data Analyst roles where I can apply analytical thinking, machi
 ---
 
 🔗 **Let’s Connect**  
-- GitHub: [github.com/JazACode](https://github.com/jazwaurankrah/)  
-- LinkedIn: [linkedin.com/in/jazwaur-ankrah-72341629a](https://linkedin.com/in/jazwaurankrah/)  
+- GitHub: [github.com/jazwaurankrah](https://github.com/jazwaurankrah/)  
+- LinkedIn: [linkedin.com/in/jazwaurankrah](https://linkedin.com/in/jazwaurankrah/)  
 - Email: jazwaurankrah@gmail.com
