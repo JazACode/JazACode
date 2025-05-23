@@ -15,7 +15,7 @@
 
 ## 📂 Featured Projects
 
-### 🧠 [Skin Injury Classification Using CNNs & YOLOv5](https://github.com/jazwaurankrah/NLPTextClassification)
+### 🧠 [Skin Injury Classification Using CNNs & YOLOv5](https://github.com/jalen941/MVPROJ)
 - Used medical image datasets to classify and localize injuries
 - Achieved 97% object detection accuracy and 60% severity classification
 
